@@ -1,4 +1,4 @@
-# Project-Streams-and-calculators
+# Project: Streams and calculators
 
 Task A. Adding integers.
 Write a program sum.cpp that reads a sequence of integers from cin, and reports their sum.
